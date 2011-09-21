@@ -1,4 +1,4 @@
-# Heroku CLI Do What I Mean
+# Heroku CLI: Do What I Mean
 
 This is a hack to solve a problem I continually have where my brain is unable to remember that the command to set a configuration variable is actuall config:add and not config:set.
 
